@@ -12,6 +12,7 @@ goto skip;// This will jump to the label "skip" and skip the code in between
 
 echo "This will not print <br>";
 
+
 skip:
 echo "End";
 ?>
