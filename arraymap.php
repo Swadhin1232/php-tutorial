@@ -19,4 +19,6 @@ $result = array_map(function($n){
 }, $numbers);
 
 print_r($result);
+
+
 ?>
