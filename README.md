@@ -1,7 +1,6 @@
 🐘 PHP Tutorial Series – Complete Syllabus
 📌 Overview
 This PHP Tutorial Series is designed to take you from beginner to advanced level, covering core PHP concepts, database integration, and real-world project development.
-
 ---
 🎯 Course Objectives
 
