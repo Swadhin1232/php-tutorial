@@ -6,7 +6,6 @@ This PHP Tutorial Series is designed to take you from beginner to advanced level
 
 🎯 Course Objectives
 
-
 - Understand server-side scripting using PHP
 - Build dynamic web applications
 - Work with databases (MySQL)
