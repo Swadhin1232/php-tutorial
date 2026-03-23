@@ -16,7 +16,6 @@ This PHP Tutorial Series is designed to take you from beginner to advanced level
 - Client vs Server-side scripting
 - Installing XAMPP/WAMP
 - Writing first PHP program
-
 ---
 
 ⚙️ Module 2: PHP Basics
