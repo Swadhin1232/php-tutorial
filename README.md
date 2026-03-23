@@ -38,7 +38,6 @@ This PHP Tutorial Series is designed to take you from beginner to advanced level
    - do-while
    - foreach
 ---
-
 📦 Module 4: Functions
 
 - User-defined functions
