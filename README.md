@@ -25,7 +25,6 @@ This PHP Tutorial Series is designed to take you from beginner to advanced level
 - Data types
 - Operators
 - Echo vs Print
-
 ---
 
 🔀 Module 3: Control Structures
